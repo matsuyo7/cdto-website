@@ -17,8 +17,17 @@ dist-ssr
 !.vscode/extensions.json
 .idea
 .DS_Store
+.DS_*
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
+**/*.backup.*
+**/*.back.*
+*.sublime*
+bower_components
+
+psd
+thumb
+sketch

@@ -6,7 +6,7 @@
 hyperlinks are used to link from one page to another
 */
 import { AiOutlineClose, AiOutlineMenu } from "react-icons/ai";
-import { use, useState } from "react";
+import { useState } from "react";
 import { Link, useLocation } from "react-router-dom";
 
 const Navbar = () => {
