@@ -1,7 +1,4 @@
 import { Swiper, SwiperSlide } from "swiper/react";
-import "swiper/css";
-import "swiper/css/pagination";
-import "swiper/css/navigation";
 import { Autoplay, Pagination, Navigation } from "swiper/modules";
 import CDTO from "../../assets/CDTO.jpg";
 import Peacock from "../../assets/Peacock.jpg";
